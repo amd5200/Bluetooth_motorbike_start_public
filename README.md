@@ -13,3 +13,5 @@ step 1: install arduino IDE in your PC. then open IDE and load motorcycle_server
 step 2: open Google Chrome web browser and open MIT App Inventor and import Motor_bike_auto_client_Public.aia
 step 3: Change your blue tooth divice MAC code.(Whan you want to auto connect to arduino device)
 step 4: change your keys and auto start password in appinventor code and arduino code
+
+video: https://www.youtube.com/watch?v=mTXOYkaS6fk
